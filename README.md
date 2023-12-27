@@ -19,9 +19,9 @@ By following this SMART goal, you can use GitHub, Trello, and Slack to create st
 
 ### Learning Activities & Resources
  learn how to use github Trello and slack
- * (https://www.youtube.com/watch?v=OTpwp_BIXMg&t=195s)
- * (https://www.youtube.com/watch?v=y6Shl6tS5zE)
- * (https://www.youtube.com/watch?v=YyMG1mNI90k)
+ * (https://www.youtube.com/watch?v=yDlDdTp7p6Q)
+ * (https://www.youtube.com/watch?v=1BUg3d4qt1w)
+ * (https://www.youtube.com/watch?v=aTMvMSY4CZc)
 
 
 ### Estimated hours
