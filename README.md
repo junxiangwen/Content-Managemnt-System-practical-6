@@ -8,7 +8,7 @@
 
 ## Content Explanation
 ### its S.M.A.R.T goals
-Built wordpress local environment
+By following this SMART goal, you can use GitHub, Trello, and Slack to create structured programs that improve team collaboration and project management with clear timelines and measurable results. Adapt timelines and specific metrics to your team's needs and capabilities.
 * **Specific：** Enhances team collaboration and facilitates project management through the creation of Github, Trello and Slack.
 * **Measurable** By completing github and Trello can greatly improve our efficiency in the future.
 * **Achievable：** Look for some tutorials on Github, Trello and Slack to learn how to use these tools for group collaboration.
